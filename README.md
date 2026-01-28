@@ -1,84 +1,90 @@
-<h1 align="center">Hi, I’m Ayush 👋</h1>
+<h1 align="center">Welcome to Ayush’s GitHub</h1>
 <p align="center">
-  Student at Uttaranchal University • Sheryians Coding School Cohort 2.0
+  <code>&lt;/&gt;</code>
 </p>
 
 <p align="center">
-  Frontend-focused Full Stack Developer in progress
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Student at **Uttaranchal University**
-- 🧠 Cohort 2.0 student at **Sheryians Coding School**
-- ⚛️ Strong in **HTML, CSS, JavaScript, React**
-- 🛠️ Currently learning **Backend with Node.js**
-- 🚀 Focused on writing clean UI and improving logic daily
-
-I believe in learning by building.  
-Right now, I’m sharpening my frontend skills and slowly moving toward full-stack development.
-
----
-
-### 🛠 Tech Stack
-
-**Languages**
-- HTML • CSS / SCSS • JavaScript • C
-
-**Frontend**
-- React.js
-- GSAP
-
-**Backend (Learning)**
-- Node.js
-
-**Tools**
-- Git • GitHub
-- VS Code
-- Vercel
-
----
-
-### 📊 Skill Level (Self-Assessment)
-
-- HTML — **80%**
-- CSS / SCSS — **90%**
-- JavaScript — **70%**
-- React — **50%**
-- GSAP — **60%**
-
----
-
-### 📌 Projects
-
-🚧 *Currently building projects*  
-I’ll be showcasing **3 solid projects** here soon, focused on real UI, interactions, and clean code.
-
-Stay tuned.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushrayal&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushrayal&theme=dark" />
+  Student • Frontend-focused Full Stack Developer (in progress)
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🧑‍🚀 About Me
 
-- 💼 LinkedIn: *(add link here)*  
-- 📧 Email: *(add email here)*
+Hello! I’m Ayush, a student at **Uttaranchal University** and a learner from  
+**Sheryians Coding School – Cohort 2.0**.
+
+I enjoy building clean user interfaces, experimenting with animations,  
+and slowly going deeper into backend development.
+
+Right now, my focus is:
+- Writing better JavaScript
+- Improving React fundamentals
+- Learning backend with Node.js
+- Building projects that actually feel complete
+
+---
+
+### ⚙️ Technologies
+
+<p align="center">
+
+**Languages**  
+HTML • CSS / SCSS • JavaScript • C  
+
+**Frontend**  
+React.js • GSAP  
+
+**Backend (Learning)**  
+Node.js  
+
+**Tools**  
+Git • GitHub • VS Code • Vercel  
+
+</p>
+
+---
+
+### 📊 Skill Snapshot
+
+- HTML — 80%  
+- CSS / SCSS — 90%  
+- JavaScript — 70%  
+- React — 50%  
+- GSAP — 60%  
+
+---
+
+### 🧱 Projects
+
+🚧 *Work in progress*  
+
+I’m currently building projects and will soon showcase  
+**3 well-structured, real-world projects** here.
+
+Quality over quantity. Always.
+
+---
+
+### 📈 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushrayal&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushrayal&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect
+
+- 💼 LinkedIn: *(add your link here)*  
+- 📧 Email: *(add your email here)*  
 
 ---
 
 <p align="center">
-  Learning. Building. Improving. ⚡
+  <i>Learning slowly. Building honestly.</i> ⚡
 </p>
