@@ -3,15 +3,13 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Welcome%20to%20Ayush's%20Github&fontSize=36&fontColor=e0e0e0&fontAlignY=38&desc=%3C%20/%3E&descAlignY=60&descSize=22&descColor=00B4D8)
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://codeforces.com/profile/your-handle"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://github.com/ayushrayal"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="https://codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   &nbsp;
-  <a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -30,10 +28,10 @@ and slowly going deeper into backend development.
 
 <br/>
 
-&nbsp;&nbsp;🎓 &nbsp;Studying at **Uttaranchal University**  
-&nbsp;&nbsp;🏫 &nbsp;**Sheryians Coding School – Cohort 2.0**  
-&nbsp;&nbsp;⚡ &nbsp;Currently building real-world frontend projects  
-&nbsp;&nbsp;📖 &nbsp;Always learning — JavaScript · React · Node.js  
+🎓 Studying at **Uttaranchal University**  
+🏫 **Sheryians Coding School – Cohort 2.0**  
+⚡ Building **real-world projects**  
+📖 Learning **JavaScript · React · Node.js · Backend**
 
 <br clear="right"/>
 
@@ -88,14 +86,11 @@ and slowly going deeper into backend development.
 
 ## 🧱 Projects
 
-> 🚧 **Three well-structured, real-world projects coming soon.**  
-> *Quality over quantity. Always.*
-
-| # | Project | Stack | Live |
-|---|---------|-------|------|
-| 01 | *Coming soon* | — | — |
-| 02 | *Coming soon* | — | — |
-| 03 | *Coming soon* | — | — |
+| # | Project | Description | Stack | Live |
+|---|---------|-------------|-------|------|
+| 01 | **Crafto – AI Content Generator** | Modern AI-powered content generation tool with clean UI and fast performance | React · Node.js · AI APIs | [crafto.vercel.app](https://crafto.vercel.app) |
+| 02 | **Real Time Device Tracker** | Track live device location on a map using sockets and geolocation | Node.js · Socket.io · JS | [Live Demo](https://realtime-tracker-ebvw.onrender.com/) |
+| 03 | **Snake Game** | Classic snake game built using vanilla JavaScript | HTML · CSS · JavaScript | [Live Demo](https://ayushsnakegame.vercel.app/) |
 
 ---
 
